@@ -4,8 +4,8 @@
 
 import java.util.*;
 class Square extends Shape{
-	public Square(double side){
-		super(side,0,0,4); //super keyword refers to the shape constructor
+	public Square(double edge){
+		super(edge ,0,0,4); //super keyword refers to the shape constructor
 		
 	}
 	
